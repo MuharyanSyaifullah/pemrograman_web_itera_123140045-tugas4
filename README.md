@@ -39,7 +39,7 @@ Program ini memiliki beberapa fungsionalitas utama yang dapat diakses melalui me
 4.  Navigasi ke direktori tempat file `manajemen_nilai.py` berada.
     ```bash
     # Contoh navigasi ke folder pertemuan
-    cd pemrograman_web_itera_119140001/johndoe_119140001_pertemuan6/
+    cd pemrograman_web_itera_119140001/johndoe_119140001_pertemuan4/
     ```
 5.  Jalankan program menggunakan perintah berikut:
     ```bash
