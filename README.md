@@ -60,7 +60,7 @@ pemrograman_web_itera_123140045/
 │
 └── pertemuan[4]/
     │
-    ├── manajemen_nilai.py   <-- (File program ini)
+    ├── pemrograman_web_itera_123140045-tugas4.py  <-- (File program ini)
     └── README.md            <-- (File ini)
     └── src/                 <-- (File Gambar)
         └──data.png
